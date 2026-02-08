@@ -1,0 +1,34 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.19.8"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "1d0db38904205bec4d6f6f6a1f6cec3e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Yxuu",
+      "code_hash": "71227d9f725e7e92de9b0562b15a6685",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"hello-riya-this-is-the-marimo-application\">Hello Riya, this is the marimo application</h1></span>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}
