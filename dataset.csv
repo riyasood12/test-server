@@ -1,0 +1,9 @@
+gene,condition,expression
+TP53,Normal,2.1
+TP53,Cancer,8.4
+BRCA1,Normal,1.9
+BRCA1,Cancer,7.8
+EGFR,Normal,3.2
+EGFR,Cancer,9.1
+MYC,Normal,2.5
+MYC,Cancer,10.3

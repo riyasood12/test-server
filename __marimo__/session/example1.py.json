@@ -6,7 +6,7 @@
   "cells": [
     {
       "id": "Hbol",
-      "code_hash": "1d0db38904205bec4d6f6f6a1f6cec3e",
+      "code_hash": "b1df8980e32a147cba29f2c855590aa4",
       "outputs": [
         {
           "type": "data",
@@ -18,13 +18,143 @@
       "console": []
     },
     {
-      "id": "Yxuu",
-      "code_hash": "71227d9f725e7e92de9b0562b15a6685",
+      "id": "tkIx",
+      "code_hash": "f877596c9ed291ba055f035631cd259c",
       "outputs": [
         {
           "type": "data",
           "data": {
-            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"hello-riya-this-is-the-marimo-application\">Hello Riya, this is the marimo application</h1></span>"
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"interactive-csv-data-explorer\">Interactive CSV Data Explorer</h1></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "xRCQ",
+      "code_hash": "5de2c3df4d16b14936a3b2b44259d6dc",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\"><strong>Please upload a CSV file using the below button</strong></span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ntWw",
+      "code_hash": "e4ce07be4a11c21f7e196029b6a33c82",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='ntWw-0' random-id='7a891768-fc4c-890e-0588-f2a0298a3a08'><marimo-file data-initial-value='[]' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Upload a CSV file&lt;/span&gt;&lt;/span&gt;&quot;' data-filetypes='[]' data-multiple='false' data-kind='&quot;button&quot;' data-max_size='100000000'></marimo-file></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "jvrG",
+      "code_hash": "d37bffb303ec2232c38370f58101d8a6",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "dcOY",
+      "code_hash": "eff7d5dba32b4da32d9a67a519434d3f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='dcOY-0' random-id='1d8f6d71-adcc-b893-0e1a-f1631f1da04c'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;gene&#92;&quot;:&#92;&quot;TP53&#92;&quot;,&#92;&quot;condition&#92;&quot;:&#92;&quot;Normal&#92;&quot;,&#92;&quot;expression&#92;&quot;:2.1},{&#92;&quot;gene&#92;&quot;:&#92;&quot;TP53&#92;&quot;,&#92;&quot;condition&#92;&quot;:&#92;&quot;Cancer&#92;&quot;,&#92;&quot;expression&#92;&quot;:8.4},{&#92;&quot;gene&#92;&quot;:&#92;&quot;BRCA1&#92;&quot;,&#92;&quot;condition&#92;&quot;:&#92;&quot;Normal&#92;&quot;,&#92;&quot;expression&#92;&quot;:1.9},{&#92;&quot;gene&#92;&quot;:&#92;&quot;BRCA1&#92;&quot;,&#92;&quot;condition&#92;&quot;:&#92;&quot;Cancer&#92;&quot;,&#92;&quot;expression&#92;&quot;:7.8},{&#92;&quot;gene&#92;&quot;:&#92;&quot;EGFR&#92;&quot;,&#92;&quot;condition&#92;&quot;:&#92;&quot;Normal&#92;&quot;,&#92;&quot;expression&#92;&quot;:3.2},{&#92;&quot;gene&#92;&quot;:&#92;&quot;EGFR&#92;&quot;,&#92;&quot;condition&#92;&quot;:&#92;&quot;Cancer&#92;&quot;,&#92;&quot;expression&#92;&quot;:9.1},{&#92;&quot;gene&#92;&quot;:&#92;&quot;MYC&#92;&quot;,&#92;&quot;condition&#92;&quot;:&#92;&quot;Normal&#92;&quot;,&#92;&quot;expression&#92;&quot;:2.5},{&#92;&quot;gene&#92;&quot;:&#92;&quot;MYC&#92;&quot;,&#92;&quot;condition&#92;&quot;:&#92;&quot;Cancer&#92;&quot;,&#92;&quot;expression&#92;&quot;:10.3}]&quot;' data-total-rows='8' data-total-columns='3' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;gene&quot;,[&quot;string&quot;,&quot;str&quot;]],[&quot;condition&quot;,[&quot;string&quot;,&quot;str&quot;]],[&quot;expression&quot;,[&quot;number&quot;,&quot;float64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "GJKm",
+      "code_hash": "7281ba73ccb11d9753a01150a87527a5",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MfwD",
+      "code_hash": "3be299f937131c6a19ecab11e53bd081",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\"><strong>Calculating grouped average based on the selected gene and condition.</strong></span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "kACw",
+      "code_hash": "7d5c009e4eb8bbc78647caeca308e61b",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-ui-element object-id='GJKm-0' random-id='fe8b908f-57fb-3d1c-7d3d-66250a66856b'><marimo-dropdown data-initial-value='[&quot;expression&quot;]' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Expression&lt;/span&gt;&lt;/span&gt;&quot;' data-options='[&quot;expression&quot;]' data-allow-select-none='false' data-searchable='false' data-full-width='false'></marimo-dropdown></marimo-ui-element><marimo-ui-element object-id='GJKm-1' random-id='4e9c9284-9700-f9df-d9b7-7eaaaef0abf7'><marimo-dropdown data-initial-value='[&quot;condition&quot;]' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Category&lt;/span&gt;&lt;/span&gt;&quot;' data-options='[&quot;gene&quot;,&quot;condition&quot;]' data-allow-select-none='false' data-searchable='false' data-full-width='false'></marimo-dropdown></marimo-ui-element></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "DvES",
+      "code_hash": "ecb8c4e40c61a8b5d56a3fae711dc388",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "xzvZ",
+      "code_hash": "a2499f924aa6e68d79dcb89d22a8074e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ADjm",
+      "code_hash": "3875d77076c66271a078416a9b75b2fe",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='ADjm-0' random-id='ce4826cf-f51d-ed42-1ee6-b61b270f2d40'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;gene&#92;&quot;:&#92;&quot;BRCA1&#92;&quot;,&#92;&quot;Average expression after grouping gene&#92;&quot;:4.85},{&#92;&quot;gene&#92;&quot;:&#92;&quot;EGFR&#92;&quot;,&#92;&quot;Average expression after grouping gene&#92;&quot;:6.15},{&#92;&quot;gene&#92;&quot;:&#92;&quot;MYC&#92;&quot;,&#92;&quot;Average expression after grouping gene&#92;&quot;:6.4},{&#92;&quot;gene&#92;&quot;:&#92;&quot;TP53&#92;&quot;,&#92;&quot;Average expression after grouping gene&#92;&quot;:5.25}]&quot;' data-total-rows='4' data-total-columns='1' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;Average expression after grouping gene&quot;,[&quot;number&quot;,&quot;float64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[[&quot;gene&quot;,[&quot;string&quot;,&quot;str&quot;]]]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
           }
         }
       ],
